@@ -68,8 +68,8 @@ GTC-ML-Project-1/
 
 ## 🚀 How to Run
 
-1. Open the notebook (`project_notebook.ipynb`) in **Google Colab** or Jupyter.
-2. Upload the dataset (`hotel_bookings.csv`).
+1. Open the notebook (`Project-One.ipynb`) in **Google Colab** or Jupyter.
+2. Upload the dataset (`hotel_bookings - hotel_bookings.csv`).
 3. Run all cells step by step (Steps 1 → 13).
 4. The final cleaned dataset will be ready for modeling.
 
