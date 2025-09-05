@@ -58,9 +58,8 @@ The project was divided into three main phases:
 ```
 GTC-ML-Project-1/
 │
-├── hotel_bookings.csv              # Raw dataset
-├── cleaned_hotel_bookings.csv      # Final cleaned dataset
-├── project_notebook.ipynb          # Jupyter/Colab notebook with all steps
+├── hotel_bookings - hotel_bookings.csv              # Raw dataset
+├── Project-One.ipynb          # Jupyter/Colab notebook with all steps
 ├── README.md                       # Project documentation
 
 ```
